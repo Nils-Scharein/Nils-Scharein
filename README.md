@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 - **Programming Languages:**  
   Python, Java, C, C++
 - **Courses Completed:**  
-  - [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)  
-  - [The Complete Full-Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+  - ✅ [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)  
+  - 🚧 Currently Learning: [The Complete Full-Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - **Hobbies:** Bouldering 🧗
 
 ## 📫 Get in Touch
