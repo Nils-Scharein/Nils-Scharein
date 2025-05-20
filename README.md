@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nils!
 
-<!--
-**Nils-Scharein/Nils-Scharein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Position:** Working Student at IAV, Berlin
+- **Programming Languages:**  
+  Python, Java, C, C++
+- **Courses Completed:**  
+  - [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)  
+  - [The Complete Full-Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- **Hobbies:** Bouldering 🧗
+
+## 📫 Get in Touch
+
+Feel free to connect or reach out if you want to collaborate or chat about tech, bouldering, or anything else!
+
+---
+[![Nils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nils-Scharein&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
