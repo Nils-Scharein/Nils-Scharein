@@ -15,6 +15,3 @@ Welcome to my GitHub profile!
 ## 📫 Get in Touch
 
 Feel free to connect or reach out if you want to collaborate or chat about tech, bouldering, or anything else!
-
----
-[![Nils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nils-Scharein&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
