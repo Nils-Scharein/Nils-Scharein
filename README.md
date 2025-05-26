@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
   - 🚧 Currently paused: [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)  
     → 📁 [My GitHub Project](https://github.com/Nils-Scharein/100DaysOfPython) (currently at Day 35)
   - 🚧 Currently Learning: [The Complete Full-Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+    → 📁[My Github project](https://github.com/Nils-Scharein/Full-Stack-Web-Development-Bootcamp)
 - **Hobbies:** Bouldering 🧗
 
 ## 📫 Get in Touch
