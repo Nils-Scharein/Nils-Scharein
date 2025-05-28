@@ -17,3 +17,4 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt)
