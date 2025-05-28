@@ -5,8 +5,6 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 
 - **Current Position:** Working Student at IAV, Berlin
-- **Programming Languages:**  
-  Python, Java, C, C++
 - **Courses Completed:**  
   - 🚧 Currently paused: [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)
     - 📁 [My GitHub python project](https://github.com/Nils-Scharein/100DaysOfPython) (currently at Day 35)
