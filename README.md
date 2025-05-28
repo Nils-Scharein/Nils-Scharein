@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nils!
+# 👋 Hi, I'm Nils
 
 Welcome to my GitHub profile!
 
@@ -14,6 +14,8 @@ Welcome to my GitHub profile!
     - 📁 [My GitHub web development project](https://github.com/Nils-Scharein/Full-Stack-Web-Development-Bootcamp)
 - **Hobbies:** Bouldering 🧗
 
-## 📫 Get in Touch
-
-Feel free to connect or reach out if you want to collaborate or chat about tech, bouldering, or anything else!
+## 🛠️ Tools & Technologien
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
