@@ -12,6 +12,10 @@ Welcome to my GitHub profile!
     - 📁 [My GitHub web development project](https://github.com/Nils-Scharein/Full-Stack-Web-Development-Bootcamp)
 - **Hobbies:** Bouldering 🧗
 
+- **Codewars Profile:**  
+  [![Codewars](https://img.shields.io/badge/Codewars-Nils_Scharein-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nils%20Scharein)
+
+
 ## 🛠️ Tools & Technologien
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
