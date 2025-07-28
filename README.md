@@ -8,13 +8,14 @@ Welcome to my GitHub profile!
   - [The Complete Full-Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
     - 📁 [My GitHub Web Development Repository](https://github.com/Nils-Scharein/Full-Stack-Web-Development-Bootcamp)
 
-- **Courses Completed:**  
-  - 🚧 Currently paused: [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)
-    - 📁 [My GitHub python project](https://github.com/Nils-Scharein/100DaysOfPython) (currently at Day 35)
-
 - 📚 Currently Learning:  
   - [Modern React From The Beginning (Udemy)](https://www.udemy.com/course/modern-react-from-the-beginning/)  
     - 📁 [My React Course Repository](https://github.com/Nils-Scharein/React-Course)
+   
+- **Courses Completed:**  
+  - 🚧 Currently paused: [100 Days of Python (Udemy)](https://www.udemy.com/course/100-days-of-code/)
+    - 📁 [My GitHub python project](https://github.com/Nils-Scharein/100DaysOfPython) (currently at Day 35)
+      
 - **Hobbies:** Bouldering 🧗
 
 - **Codewars Profile:**  
