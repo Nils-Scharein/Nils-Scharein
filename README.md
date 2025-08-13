@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 - **Codewars Profile:**  
   [![Codewars](https://img.shields.io/badge/Codewars-Nils_Scharein-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nils%20Scharein)
 
-- **LeetCode Profile**
+- **LeetCode Profile**  
   [![LeetCode](https://img.shields.io/badge/LeetCode-Nils_Scharein-FFA116?style=flat&logo=leetcode&logoColor=white)]([https://leetcode.com/your-username/](https://leetcode.com/u/Nils_S/))
 
 
